@@ -1,0 +1,32 @@
+.jumbotron {
+  color: #80B;
+  text-shadow: 1.5px 3px 1px #777;
+  font-weight:500;
+}
+
+img {
+  position: relative;
+  width: 80%;
+  margin-left: 10%;
+}
+
+footer {
+  background-color: #888;
+  color: #80B;
+  padding-bottom: 25px;
+}
+
+footer a {
+  text-decoration: underline;
+  color: inherit;
+}
+
+.screen {
+  margin-bottom: 20px;
+}
+
+.screen p {
+  margin: 20px 10% 0 10%;
+  text-align: justify;
+  font-size: 18px;
+}
